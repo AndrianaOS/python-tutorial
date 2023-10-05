@@ -41,3 +41,11 @@ print(my_alphabet[::3])
 print("----------------")
 
 print(my_alphabet[1:10:3])
+
+print("----------------")
+
+print(my_alphabet[::-1]) #Easy way to reverse a string
+
+print("----------------")
+
+print(my_sentence[::-1])
